@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+    height: 100vh;
+    margin: 0;
+    background-color: #000000;
+    background-image: url("photo1.jpg");
+    background-size: cover; /* or 'contain' depending on your preference */
+    background-position: center; /* or specify position as needed */
+}
+.Result_Card{
+    width: 500px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    
+    
+}
